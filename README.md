@@ -17,3 +17,17 @@ In this project you’ll create a standalone web server with a Raspberry Pi that
 In order to create the web server you will be using a Python microframework called Flask.
 ##### Working schematic
 <img src="images/Capture1.JPG" width="800" height="400"> <br/>
+
+### METHODOLOGY
+<ul>
+<li>Basic Raspberry Pi Setup
+<li>Run and install Mosquitto broker
+<li> Python web server with Flask
+<li> Installing Python Paho-MQTT
+<li> Creating the Python Script
+<li>Creating the HTML File
+<li> Programming the ESP8266
+ </ul>
+ 
+ ### SCHEMATIC
+ <img src="images/Capture2.JPG" width="400" height="400"> <br/>
