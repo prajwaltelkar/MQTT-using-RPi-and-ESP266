@@ -15,3 +15,5 @@ To publish a message from Python Web server and ESP8266 subscribing the message 
 ### WORKING
 In this project you’ll create a standalone web server with a Raspberry Pi that can toggle two LEDs from an ESP8266 using MQTT protocol.<br>
 In order to create the web server you will be using a Python microframework called Flask.
+##### Working schematic
+<img src="images/Capture1.JPG" width="800" height="400"> <br/>
