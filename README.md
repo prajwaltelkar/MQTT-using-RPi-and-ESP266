@@ -1,4 +1,4 @@
-# MQTT-using-RPi-and-ESP266
+# MQTT-using-RPi-and-ESP8266
 ### Encouraged by  <a href="https://appiko.org/">Appiko</a>
 
 ### OBJECTIVE
